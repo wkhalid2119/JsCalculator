@@ -1,6 +1,4 @@
-// To see a more advanced version of this app with features such as toggle sign and Clear Entry buttons, see this pen https://codepen.io/no_stack_dub_sack/full/jrxpKP/
 
-// coded by @no-stack-dub-sack (github) / @no_stack_sub_sack (codepen)
 
 // PROJECTOR SELECTOR FOR EXTERNAL TEST SCRIPT:
 const projectName = 'javascript-calculator';
