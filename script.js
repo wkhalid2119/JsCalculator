@@ -152,7 +152,7 @@ class Calculator extends React.Component {
         numbers: this.handleNumbers })),
 
       React.createElement("div", { className: "author" }, " Designed and Coded By ", React.createElement("br", null),
-      React.createElement("a", { target: "_blank", href: "https://github.com/wkhalid2119/JsCalculator/blob/master/script.js" }, "Waleed Khalid"))));
+      React.createElement("a", { target: "_blank", href: "//github.com/wkhalid2119/" }, "Waleed Khalid"))));
 
 
 
